@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there, I'm Thanh. Nice to meet you! 👋
+---
 
-<!--
-**samuel7232003/samuel7232003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🙆‍♂️ About me** 
+---
+I'm in my third year at *Da Nang University of Science and Technology*. <br>
+My major is *Data Science and Artificel Intelligence - ITF*.
+<br> <br>
 
-Here are some ideas to get you started:
+**💻 My techstack**
+---
+*- My languages:* <br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel7232003&show_icons=true&locale=en&layout=compact&line_height=20&title_color=f69673" alt="samuel7232003-github-stats" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*- Techstack:* <br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,dotnet&theme=light)](https://skillicons.dev)
+
+*- Tools & IDE:* <br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,github,idea,notion,androidstudio&theme=light)](https://skillicons.dev)
+
+<br>
+
+**📫 Contact me**
+---
+<p align="left">
+  <a href="https://www.facebook.com/thanhchaomoinguoi/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
+  <a href="https://www.instagram.com/lv.thank/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
+  <a href="https://github.com/samuel7232003"><img src="https://img.shields.io/badge/Github--_.svg?style=social&logo=github" alt="Github"></a>
+  <a href="https://www.linkedin.com/in/thanh-le-9137a224b/"><img src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin" alt="Linkedin"></a>
+</p>
+<br>
+
+### ✨Bye!! See yaaa!
