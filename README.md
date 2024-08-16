@@ -3,7 +3,8 @@
 
 **🙆‍♂️ About me** 
 ---
-I'm in my third year at *Da Nang University of Science and Technology*. <br>
+I'm a Front-end Intern.
+I'm in my fourth year at *Da Nang University of Science and Technology*. <br>
 My major is *Data Science and Artificel Intelligence - ITF*.
 <br> <br>
 
@@ -13,7 +14,10 @@ My major is *Data Science and Artificel Intelligence - ITF*.
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel7232003&show_icons=true&locale=en&layout=compact&line_height=20&title_color=f69673" alt="samuel7232003-github-stats" />
 
 *- Techstack:* <br><br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,dotnet&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,dotnet,java,js,ts&theme=light)](https://skillicons.dev)
+
+*- Framework:* <br><br>
+[![My Skills](https://skillicons.dev/icons?i=redux,tailwind&theme=light)](https://skillicons.dev)
 
 *- Tools & IDE:* <br><br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,github,idea,notion,androidstudio&theme=light)](https://skillicons.dev)
