@@ -3,7 +3,7 @@
 
 **🙆‍♂️ About me** 
 ---
-I'm a Front-end Intern.
+I'm a Front-end Intern. <br>
 I'm in my fourth year at *Da Nang University of Science and Technology*. <br>
 My major is *Data Science and Artificel Intelligence - ITF*.
 <br> <br>
